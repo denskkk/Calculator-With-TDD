@@ -1,0 +1,7 @@
+C:\Users\denys\source\repos\Calculator\CalculatorApps\bin\Debug\CalculatorApps.exe.config
+C:\Users\denys\source\repos\Calculator\CalculatorApps\bin\Debug\CalculatorApps.exe
+C:\Users\denys\source\repos\Calculator\CalculatorApps\bin\Debug\CalculatorApps.pdb
+C:\Users\denys\source\repos\Calculator\CalculatorApps\obj\Debug\CalculatorApps.csproj.AssemblyReference.cache
+C:\Users\denys\source\repos\Calculator\CalculatorApps\obj\Debug\CalculatorApps.csproj.CoreCompileInputs.cache
+C:\Users\denys\source\repos\Calculator\CalculatorApps\obj\Debug\CalculatorApps.exe
+C:\Users\denys\source\repos\Calculator\CalculatorApps\obj\Debug\CalculatorApps.pdb
